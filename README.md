@@ -2,4 +2,4 @@
 Lightweight Network Design for Edge Detection
 
 # Source Code
-The source code is currently being compiled and will be available for publication soon
+The source code is currently being organized and will be available for publication soon.
